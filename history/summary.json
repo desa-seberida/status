@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/seberida.desa.id.ico",
     "slug": "website-utama",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.44%",
     "uptimeMonth": "99.18%",
-    "uptimeYear": "99.77%",
-    "time": 1883,
-    "timeDay": 749,
-    "timeWeek": 3053,
-    "timeMonth": 2330,
-    "timeYear": 1883,
+    "uptimeYear": "99.78%",
+    "time": 1878,
+    "timeDay": 1259,
+    "timeWeek": 3006,
+    "timeMonth": 2294,
+    "timeYear": 1878,
     "dailyMinutesDown": {
       "2024-05-20": 359
     }
