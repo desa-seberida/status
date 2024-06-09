@@ -4,7 +4,7 @@
     "url": "https://seberida.desa.id",
     "icon": "https://icons.duckduckgo.com/ip3/seberida.desa.id.ico",
     "slug": "website-utama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2118,
     "timeYear": 1865,
     "dailyMinutesDown": {
+      "2024-06-09": 0,
       "2024-06-01": 35,
       "2024-05-27": 229,
       "2024-05-20": 359
